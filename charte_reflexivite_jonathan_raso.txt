@@ -1,24 +1,26 @@
 Charte de réflexivité:
 
-Jour 1 (09/09):
-1) Qu'est-ce que j'ai fait hier ?
-
-
-2) Qu'est-ce que j'ai pu apprendre ?
-
-
-3) Qu'est-ce que je vais réutiliser dans le futur?
-
------------------------------------------------------
 
 Jour 2 (10/09):
 1) Qu'est-ce que j'ai fait hier ?
 
+- J'ai commencé à mettre en place le projet sur lequel je vais travailler pendant 7 jours. 
+- J'ai mis en place le repo github pour pouvoir l'utiliser sur ce projet.
+- J'ai également utilisé Trello pour mettre en place mon planning du projet, en essayant de prévoir le temps nécessaire pour
+chaque tâche.
+- J'ai aussi commencé à importer les données dans un notebook pour découvrir le dataset et commencé l'EDA.
 
 2) Qu'est-ce que j'ai pu apprendre ?
 
+- J'ai pu revoir les commandes de base de git, et notamment la création d'un fichier .gitignore directement en ligne de
+commande (avec touch .gitignore).
+- J'ai appris à découper mon travail en différentes tâches afin de planifier en avance le travail à effectuer.
+- J'ai découvert les différentes étapes pour mener à bien un projet de A à Z.
 
 3) Qu'est-ce que je vais réutiliser dans le futur?
+
+- Je vais réutiliser les commandes git pour chacun de mes futurs projets.
+- Je vais réutiliser Trello ou un autre outil pour prévoir en amont le planning de mes tâches à effectuer.
 
 -----------------------------------------------------
 
