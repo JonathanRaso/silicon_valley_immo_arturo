@@ -27,11 +27,18 @@ commande (avec touch .gitignore).
 Jour 3 (15/09):
 1) Qu'est-ce que j'ai fait hier ?
 
+- J'ai commencé l'EDA, avec notamment l'utilisation des méthodes de base (describe, info,...) et un début de visualisation.
+- J'ai découvert les différentes étapes de l'EDA en effectuant la veille prévue par Arturo (duplicates, encoding, ...).
 
 2) Qu'est-ce que j'ai pu apprendre ?
 
+- J'ai appris à différencier les valeurs aberrantes (fausses), et les valeurs atypiques (qui sortent du lot) lorsqu'il y a des outliers.
+- J'ai appris qu'on pouvait gérer les dataset non équilibrés de deux manières différentes selon la situation (over-sampling et under-sampling).
+- J'ai appris que pour l'encodage des variables il fallait voir si celles-ci étaient des nominal variables ou des ordinal variables.
 
 3) Qu'est-ce que je vais réutiliser dans le futur?
+
+- Je vais réutiliser les différentes étapes de l'EDA pour mes prochains projets.
 
 -----------------------------------------------------
 
