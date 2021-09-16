@@ -45,11 +45,17 @@ Jour 3 (15/09):
 Jour 4 (16/09):
 1) Qu'est-ce que j'ai fait hier ?
 
+- J'ai commencé la veille sur l'inférence statistique, il faut que je lise les articles conseillés par Arturo avant de commencer le notebook sur l'inférence.
+- J'ai commencé le notebook_EDA pour mettre au propre ce que j'avais fait sur le notebook de test. 
 
 2) Qu'est-ce que j'ai pu apprendre ?
 
+- J'ai appris ce qu'était l'inférence statistique (les bases en tout cas).
+- J'ai appris qu'il fallait faire une copie du dataframe initial pour travailler sans altérer ce dernier.
 
 3) Qu'est-ce que je vais réutiliser dans le futur?
+
+- Je vais réutiliser la copie du dataframe. 
 
 -----------------------------------------------------
 
