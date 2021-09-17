@@ -62,11 +62,17 @@ Jour 4 (16/09):
 Jour 5 (17/09):
 1) Qu'est-ce que j'ai fait hier ?
 
+- J'ai refait une partie de mon EDA pour pouvoir travaillen avec des dataframes spécifiques pour chaque itération.
+- J'ai créé un notebook_model, dans lequel j'ai fait une première itération et obtenu un score avec mes données sans missing values.
 
 2) Qu'est-ce que j'ai pu apprendre ?
 
+- J'ai appris qu'il fallait découper en train/test et appliquer le fit et le transform sur le train et seulement le transform sur le test.
+- J'ai appris qu'il fallait travailler avec des itérations pour tester notre modèle avec différentes méthodes de cleaning/preprocessing.
 
 3) Qu'est-ce que je vais réutiliser dans le futur?
+
+- Je vais réutiliser le découpage du dataframe en train/test si le projet le nécessite.
 
 -----------------------------------------------------
 
