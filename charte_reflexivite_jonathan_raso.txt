@@ -79,11 +79,17 @@ Jour 5 (17/09):
 Jour 6 (22/09):
 1) Qu'est-ce que j'ai fait hier ?
 
+J'ai utilisé des pipelines pour éviter d'exporter ds csv à chaque itération.
+J'ai testé des nouveaux modèles pour éviter d'avoir des prédictions négatives.
 
 2) Qu'est-ce que j'ai pu apprendre ?
 
+J'ai appris que le LinearRegressor de scikit learn pouvait faire des prédiction négatives.
+J'ai appris à utiliser des pipelines pour faire tester différentes étapes de preprocessing et différents modèles.
 
 3) Qu'est-ce que je vais réutiliser dans le futur?
+
+Je vais réutiliser des pipelines dans mes futurs projets.
 
 -----------------------------------------------------
 
@@ -97,9 +103,3 @@ Jour 7 (24/09):
 3) Qu'est-ce que je vais réutiliser dans le futur?
 
 -----------------------------------------------------
-
-
-2) Qu'est-ce que j'ai pu apprendre ?
-
-
-3) Qu'est-ce que je vais réutiliser dans le futur?
