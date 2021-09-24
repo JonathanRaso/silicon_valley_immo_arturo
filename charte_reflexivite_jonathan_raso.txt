@@ -79,27 +79,35 @@ Jour 5 (17/09):
 Jour 6 (22/09):
 1) Qu'est-ce que j'ai fait hier ?
 
-J'ai utilisé des pipelines pour éviter d'exporter ds csv à chaque itération.
-J'ai testé des nouveaux modèles pour éviter d'avoir des prédictions négatives.
+- J'ai utilisé des pipelines pour éviter d'exporter ds csv à chaque itération.
+- J'ai testé des nouveaux modèles pour éviter d'avoir des prédictions négatives.
 
 2) Qu'est-ce que j'ai pu apprendre ?
 
-J'ai appris que le LinearRegressor de scikit learn pouvait faire des prédiction négatives.
-J'ai appris à utiliser des pipelines pour faire tester différentes étapes de preprocessing et différents modèles.
+- J'ai appris que le LinearRegressor de scikit learn pouvait faire des prédiction négatives.
+- J'ai appris à utiliser des pipelines pour faire tester différentes étapes de preprocessing et différents modèles.
 
 3) Qu'est-ce que je vais réutiliser dans le futur?
 
-Je vais réutiliser des pipelines dans mes futurs projets.
+- Je vais réutiliser des pipelines dans mes futurs projets.
 
 -----------------------------------------------------
 
 Jour 7 (24/09):
 1) Qu'est-ce que j'ai fait hier ?
 
+- J'ai mis au propre les différents notebook à rendre.
+- J'ai commencé le notebook_inference.
+- J'ai importé le modèle que je vais utiliser dans le notebook predict.
 
 2) Qu'est-ce que j'ai pu apprendre ?
 
+- J'ai appris à importer mon modèle entrainé dans un autre notebook avec pickle.
+- J'ai appris à faire un notebook_predict pour guider le client et lui permettre d'utiliser le modèle que j'ai créé.
 
 3) Qu'est-ce que je vais réutiliser dans le futur?
+
+- Je vais réutiliser le pickle pour pouvoir exporter des parties de code d'un notebook à l'autre.
+- Je vais réutiliser l'utilisation de différents notebook pour bien séparer mon code.
 
 -----------------------------------------------------
